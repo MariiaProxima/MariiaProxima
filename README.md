@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @MariiaProxima
 - 👀 I’m interested in space exploration, green engineering and programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning C++ and Python
+- 📫 How to reach me: @Ree880 (Telegram)
+- ⚡ Fun fact: love Pilates and astronomy
 
 <!---
 MariiaProxima/MariiaProxima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
